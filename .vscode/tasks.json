@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}\\binaryGap\\binaryGap.csproj"
+                "${workspaceFolder}\\oddOccurencesInArray\\oddOccurencesInArray.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

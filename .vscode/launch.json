@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\binaryGap\\bin\\Debug\\netcoreapp2.0\\binaryGap.dll",
+            "program": "${workspaceRoot}\\oddOccurencesInArray\\bin\\Debug\\netcoreapp2.0\\oddOccurencesInArray.dll",
             "args": [],
-            "cwd": "${workspaceRoot}/binaryGap",
+            "cwd": "${workspaceRoot}\\oddOccurencesInArray",
             "stopAtEntry": false,
             "console": "internalConsole",
         }
